@@ -1,0 +1,19 @@
+{
+	"name": "ip-address-tracker",
+	"version": "1.0.0",
+	"description": "A web application that allows users to track and display IP address details, including location, timezone, and ISP information, using a clean and responsive interface.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"IP address",
+		"tracker",
+		"geolocation",
+		"timezone",
+		"ISP",
+		"web application"
+	],
+	"author": "",
+	"license": "ISC"
+}
