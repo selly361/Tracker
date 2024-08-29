@@ -1,0 +1,14 @@
+:root {
+	--bg-image: url('/src/assets/images/pattern-bg-desktop.png');
+	--font-primary: 'Rubik', sans-serif;
+	--radius: 15px;
+
+	--c-dark-gray: rgb(43, 43, 43);
+	--c-gray: rgb(150, 150, 150);
+}
+
+@media (max-width: 676px) {
+	:root {
+		--bg-image: url('/src/assets/images/pattern-bg-mobile.png');
+	}
+}
